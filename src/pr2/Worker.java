@@ -1,4 +1,4 @@
-package weekly2;
+package pr2;
 
 import java.text.DecimalFormat;
 
